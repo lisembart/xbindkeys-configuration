@@ -49,5 +49,10 @@
     m:0x5 + c:24
     Control+Shift + q 
 
+#LaunchTerminal
+"gnome-terminal"
+    m:0x4 + c:28
+    Control + t 
+
 #
 # End of xbindkeys configuration
